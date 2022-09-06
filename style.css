@@ -1,0 +1,35 @@
+body {
+    font-family: 'Crimson Text', serif;
+    margin: 0;
+}
+
+.abu {
+    color: blue;
+}
+
+section {
+    display: flex;
+    padding: 5%;
+}
+
+.bokkor {
+    width: 50%;
+}
+
+.siddik img {
+    width: 80%;
+}
+
+.sohan {
+    text-decoration: none;
+    background-image: linear-gradient(red, blue);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.rakib {
+    background-image: url(bokkor/top-banner.png);
+    fe
+}
