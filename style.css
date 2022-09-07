@@ -7,7 +7,7 @@ body {
     color: blue;
 }
 
-section {
+.rohan {
     display: flex;
     padding: 5%;
 }
@@ -20,6 +20,13 @@ section {
 
 .bokkor img {
     width: 80%;
+}
+
+.sakib {
+    background-image: url(bokkor/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
 
 .sohan {
@@ -40,4 +47,33 @@ section {
     background-image: url(bokkor/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.rifat {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 10px;
+
+    box-shadow: 10px 10px 30px palevioletred;
+
+
+
+
+
+}
+
+#firoz {
+    border-left: 7px solid red;
+}
+
+#raju {
+    border-left: 7px solid blue;
+
+}
+
+footer P {
+    text-align: center;
 }
